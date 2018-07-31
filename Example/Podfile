@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HBTToolbarView_Example' do
+  pod 'HBTToolbarView', :path => '../'
+
+  target 'HBTToolbarView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

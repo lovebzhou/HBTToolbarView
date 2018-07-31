@@ -1,0 +1,6 @@
+framework module HBTToolbarView {
+  umbrella header "HBTToolbarView-umbrella.h"
+
+  export *
+  module * { export * }
+}

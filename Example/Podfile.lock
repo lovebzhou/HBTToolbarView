@@ -1,0 +1,16 @@
+PODS:
+  - HBTToolbarView (0.1.0)
+
+DEPENDENCIES:
+  - HBTToolbarView (from `../`)
+
+EXTERNAL SOURCES:
+  HBTToolbarView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HBTToolbarView: c864fb7228108eb6d97b8bc4be057fc8384347fa
+
+PODFILE CHECKSUM: b82448b0154dac0f2e485ff3df5510ce2ad325b6
+
+COCOAPODS: 1.5.3
